@@ -1,0 +1,39 @@
+{
+  "name": "nuxt-demo",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "test": "jest"
+  },
+  "dependencies": {
+    "@nuxtjs/style-resources": "^1.0.0",
+    "axios": "^0.21.0",
+    "core-js": "^3.6.5",
+    "element-ui": "^2.13.2",
+    "js-cookie": "2.2.0",
+    "nuxt": "^2.14.11",
+    "vuex": "3.6.0"
+  },
+  "devDependencies": {
+    "@vue/test-utils": "^1.1.0",
+    "babel-core": "7.0.0-bridge.0",
+    "babel-jest": "^26.5.0",
+    "jest": "^26.5.0",
+    "vue-jest": "^3.0.4",
+    "sass": "1.26.2",
+    "sass-loader": "8.0.2",
+    "express-session": "^1.15.6",
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.4"
+  },
+  "config": {
+    "nuxt": {
+      "host": "127.0.0.1",
+      "port": "8051"
+    }
+  }
+}
