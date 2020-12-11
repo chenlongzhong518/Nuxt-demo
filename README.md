@@ -9,7 +9,7 @@ $ npm install
 # serve with hot reload at localhost:3000
 $ npm run dev
 
-# 启动接口服务
+# 模拟接口请求
 cd server
 node app.js
 
