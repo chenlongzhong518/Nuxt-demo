@@ -9,7 +9,7 @@ $ npm install
 # serve with hot reload at localhost:3000
 $ npm run dev
 
-# 模拟接口请求
+# Analog interface request
 cd server
 node app.js
 
@@ -17,7 +17,7 @@ node app.js
 $ npm run build
 $ npm run start
 
-项目打包部署到服务器上:
+The project is packaged and deployed to the server:
 1.在本地 npm run build,会在.nuxt文件夹下生成dist文件;
 2.把本地文件的.nuxt,static,package.json,nuxt.config.js,这四个文件夹放到服务器目录
 
