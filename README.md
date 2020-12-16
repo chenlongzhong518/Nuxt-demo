@@ -18,7 +18,7 @@ $ npm run build
 $ npm run start
 
 The project is packaged and deployed to the server:
-1.在本地 npm run build,会在.nuxt文件夹下生成dist文件;
+1.在本地 npm run build,会在.nuxt文件夹下生成dist文件
 2.把本地文件的.nuxt,static,package.json,nuxt.config.js,这四个文件夹放到服务器目录
 
 # generate static project
